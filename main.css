@@ -1,0 +1,41 @@
+.body {
+    background-image: url("DALL·E 2023-04-27 15.34.28 - background.png");
+}
+
+.cadastro {
+    background-color: black;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 15px;
+    padding: 1%;
+    opacity: 80%;
+}
+
+label {
+    color: antiquewhite;
+}
+
+.cadastro1 {
+    opacity: 100%;
+    text-align: center;
+}
+
+select{
+    width: 350px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+input {
+    width: 350px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.input {
+    zoom: 1.5;
+    border-radius: 5px;
+    background-color: yellow;
+    width: 80px;
+    height: 30px;
+}

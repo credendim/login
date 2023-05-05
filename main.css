@@ -1,5 +1,6 @@
-.body {
+body {
     background-image: url("DALL·E 2023-04-27 15.34.28 - background.png");
+    background-size: 105%;
 }
 
 .cadastro {
@@ -38,4 +39,8 @@ input {
     background-color: yellow;
     width: 80px;
     height: 30px;
+}
+
+.nome {
+    flex-wrap: row;
 }
